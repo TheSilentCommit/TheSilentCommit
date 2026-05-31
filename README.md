@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on cybersecurity and web development
 - ⚡ Fun fact: I'm really n0ob
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,c,cpp,py,django,flask,html,css,postgres,sqlite,mongo,nodejs,js,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,c,cpp,py,django,html,css,postgres,sqlite,mongo,postman,nodejs,js,express)](https://skillicons.dev)
