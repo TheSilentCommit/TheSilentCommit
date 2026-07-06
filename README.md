@@ -1,12 +1,12 @@
 # Hi there 👋
 
-I'm a Computer Science student and IT Support Analyst with a strong interest in backend development, Linux, cloud technologies and cybersecurity.
+I'm a Computer Science student and IT Support Analyst with hands-on experience in Linux, networking, IT infrastructure and backend development. I'm passionate about building reliable systems, automating processes and continuously learning new technologies.
 
-Currently, I'm building projects focused on clean architecture, REST APIs and automation while continuously improving my infrastructure and security skills.
+Currently, I'm developing a complete ERP system focused on clean architecture and REST APIs while expanding my knowledge in cloud computing, cybersecurity and DevOps.
 
 ## 🚀 What I'm working on
 
-- Building a complete ERP system with Node.js and Express
+- Building a complete ERP system with Node.js, Express and MongoDB
 - Learning Cybersecurity and Cloud technologies
 
 ## 🤝 I'm open to collaborate on
@@ -15,6 +15,7 @@ Currently, I'm building projects focused on clean architecture, REST APIs and au
 - Open Source
 - Linux
 - Cybersecurity
+- Networking
 - Infrastructure Automation
 
 ## 📚 Currently learning
