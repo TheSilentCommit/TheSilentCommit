@@ -1,4 +1,4 @@
-# Hi, I'm Carlos 👋
+# Hi there 👋
 
 I'm a Computer Science student and IT Support Analyst with a strong interest in backend development, Linux, cloud technologies and cybersecurity.
 
