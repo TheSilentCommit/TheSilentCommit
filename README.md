@@ -23,6 +23,7 @@ Currently, I'm developing a complete ERP system focused on clean architecture an
 - Node.js
 - Express
 - PostgreSQL
+- MongoDB
 - Docker
 - Cybersecurity
 - Azure
